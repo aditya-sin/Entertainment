@@ -1,6 +1,9 @@
 # Entertainment
 This project creates a static webpage containing a list of movies. It displays the **_posters_** and **_names_** of the movies and also shows there **_trailers_**. 
 
+### How to get it
+This project can be downloaded from github. In the command prompt, after going into the desired directory, type `git clone https://github.com/aditya-sin/Entertainment.git`to get the project. 
+
 ### What it contains
 There are python, html and css files in the project. The Html file is created by `fresh_tomatoes.py` provided by Udacity and modified by me. `media.py` creates a class `Movie()`, while instances of this class are created by `entertainment_py.py`. Details of the movies are passed as arguments of the instances.
 
